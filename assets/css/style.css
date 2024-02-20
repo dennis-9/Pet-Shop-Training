@@ -18,7 +18,7 @@ a.custom-logo-link {
 }
 
 
-/* Apply a box-sizing border-box model to all elements */
+/* This Applies a box-sizing border-box model to all elements */
 
 * {
     box-sizing: border-box;
@@ -39,7 +39,7 @@ body {
 }
 
 
-/* Banner styles and the hovering something*/
+/* Banner styles and the hovering effects */
 
 .banner {
     position: relative;
